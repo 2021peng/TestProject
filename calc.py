@@ -10,4 +10,5 @@ def div(*args):
 # if __name__ == '__main__':#以主程序方式运行
 #     print((add(10, 20)))
 #
+print("结果为：")
 print((add(10, 20)))
